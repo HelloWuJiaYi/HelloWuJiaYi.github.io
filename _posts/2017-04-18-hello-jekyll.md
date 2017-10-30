@@ -3,7 +3,7 @@ layout: post
 title: 'HelloWuJiaYi'
 date: 2017-10-31
 author: WuJiaYi
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'http://wx3.sinaimg.cn/large/cf5b72a1ly1fl0qmsd9jlj20p008cq2y.jpg'
 tags: 
 ---
 
