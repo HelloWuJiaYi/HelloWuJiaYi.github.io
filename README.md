@@ -6,7 +6,7 @@
 
 - My homepage： [吴佳轶 \| MagicWorld](http://www.magicworld.vip)
 
-- My mailbox：hellowujiayi@gmail.com
+- My mailbox：[hellowujiayi@gmail.com]()
 
 ## My Ongoing Project
 
