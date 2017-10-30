@@ -1,9 +1,17 @@
 ## Welcome to My GitHub Pages
 
-我的技术博客： [吴佳轶 \| WuJiaYi](http://www.wujiayi.vip)
+My GitHub Pages： [HelloWuJiaYi](https://hellowujiayi.github.io/)
 
-我的个人主页： [吴佳轶 \| MagicWorld](http://www.magicworld.vip)
+My Tech Blog： [吴佳轶 \| WuJiaYi](http://www.wujiayi.vip)
 
-我的邮箱：hellowujiayi@gmail.com
+My Homepage： [吴佳轶 \| MagicWorld](http://www.magicworld.vip)
 
+My Mailbox：hellowujiayi@gmail.com
 
+## My Ongoing Project
+
+- MagicMirror
+
+- Thundercracker
+
+- MyBlog
